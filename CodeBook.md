@@ -9,9 +9,9 @@ I extracted the files into a folder named "UCI HAR Dataset" and set my working d
 The purpose of this project was to demonstrate my ability to collect, work with, and clean a data set. The goal was to prepare tidy data that could be used for later analysis.  
   
 I was required to submit:  
-1. a tidy data set as described below. 
-2. a link to a Github repository my script for performing the analysis.
-3. a code book called CodeBook.md and README.md in the repo with my script.
+1.  a tidy data set as described below.  
+2.  a link to a Github repository my script for performing the analysis.
+3.  a code book called CodeBook.md and README.md in the repo with my script.
   
 I created one R script called run_analysis.R that does the following:  
   
@@ -37,9 +37,9 @@ Now if we examine the names for the columns in "features_info.txt" and break the
 
 ### From all this we see our data set has all of these variables:
 Variable  | Value
---------- | -----
+--------- |:-----
 Subject   | Subject id number 1-30
-CalcType  | value derived Mean or Standard Deviation (STD)
+CalcType  | Value derived Mean or Standard Deviation (STD)
 Activity  | The activity subject is engaged in WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, or LAYING
 Domain    | Whether the variance value is derived within the Time or Frequency domain
 Device    | Where was the information coming from the Accelerometer or Gyroscope 
