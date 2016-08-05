@@ -79,7 +79,7 @@ stack$AccelType[tidyUp("BodyAcc")] <- "Body"
 stack$AccelType[tidyUp("GravityAcc")] <- "Gravity" 
 
 ### Create a column indicating whether the value came from which device
-# Accelerometer or Gyroscope
+### Accelerometer or Gyroscope
 stack$Device[tidyUp("Acc")] <-  "Accelerometer"
 stack$Device[tidyUp("Gyro")] <- "Gyroscope"
 
