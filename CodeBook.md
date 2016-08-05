@@ -9,6 +9,7 @@ I extracted the files into a folder named "UCI HAR Dataset" and set my working d
 The purpose of this project was to demonstrate my ability to collect, work with, and clean a data set. The goal was to prepare tidy data that could be used for later analysis.  
   
 I was required to submit:  
+  
 1.  a tidy data set as described below.  
 2.  a link to a Github repository my script for performing the analysis.  
 3.  a code book called CodeBook.md and README.md in the repo with my script.  
