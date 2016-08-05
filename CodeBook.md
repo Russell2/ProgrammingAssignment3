@@ -10,8 +10,8 @@ The purpose of this project was to demonstrate my ability to collect, work with,
   
 I was required to submit:  
 1.  a tidy data set as described below.  
-2.  a link to a Github repository my script for performing the analysis.
-3.  a code book called CodeBook.md and README.md in the repo with my script.
+2.  a link to a Github repository my script for performing the analysis.  
+3.  a code book called CodeBook.md and README.md in the repo with my script.  
   
 I created one R script called run_analysis.R that does the following:  
   
