@@ -102,7 +102,7 @@ summarise(mean(value))
 #### clean up the names
 names(stack) <- c("Subject","Activity","CalcType","Domain","AccelType","Device","Magnitude","Jerk","Axis","Value")
 
-## Save to the tidy data into the working directory as text file
+#### Save to the tidy data into the working directory as text file
 write.table(stack, file="HumanActivityRecognitionMeanData.txt", row.name=FALSE) 
 
 
